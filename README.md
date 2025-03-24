@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend and backend developer
 ------------------------------
 
-I've been learning code for almost 2 years. I started with HTML and CSS for curiosity but then i discovered the pleasure of the challenging backend developing. Working on cs50 proyect for Computer Science course. But also learning more about python, quality code and algorithms in Coursera org. 
+I've been learning code for almost 2 years. I started with HTML and CSS for curiosity but then i discovered the pleasure of the challenging backend developing. Working on proyect for CS50 course in Edx. But also learning more about python, quality code and algorithms in Coursera org. 
 
 * 🌍  I'm based in Argentina
 * 🧠  I'm learning TypeScript
