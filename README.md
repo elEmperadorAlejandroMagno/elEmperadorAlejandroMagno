@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alejandro
 =================================================================================================================================
 
-Frontend and backend developer
+Full Stack developer
 ------------------------------
 
-I've been learning code for almost 2 years. I started with HTML and CSS for curiosity but then i discovered the pleasure of the challenging backend developing. Working on proyect for CS50 course in Edx. But also learning more about python, quality code and algorithms in Coursera org. 
+I've been learning programming since 2024. I started with HTML and CSS for curiosity but then i discovered the pleasure of the challenging programming developing. Working on proyect for CS50 course in Edx. But also learning more about python, quality code and algorithms in Coursera org. 
 
 * 🌍  I'm based in Argentina
 * 🧠  I'm learning TypeScript
