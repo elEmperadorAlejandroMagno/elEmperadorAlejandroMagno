@@ -9,6 +9,14 @@ I've been learning programming since 2024. I started with HTML and CSS for curio
 * 🌍  I'm based in Argentina
 * 🧠  I'm learning TypeScript
 
+### Demo Apps
+
+[App to simulate Wow talents (React + Api Express.js)](https://mywowtalents-calculator.netlify.app/)
+
+[App Timer to practice and solve rubik's puzzles (React)](https://your-favorite-timer.netlify.app/)
+
+[App E-commerce full stack (Python Flask)](https://fdm-flask-b7v9.onrender.com/home)
+
 ### Skills
 
 
