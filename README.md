@@ -11,11 +11,13 @@ I've been learning programming since 2024. I started with HTML and CSS for curio
 
 ### Demo Apps
 
-[App to simulate Wow talents (React + Api Express.js)](https://mywowtalents-calculator.netlify.app/)
+[App to simulate Wow talents (React + Api Express.js)](https://mywowtalents-calculator.netlify.app/) :crossed_swords: :shield:
 
-[App Timer to practice and solve rubik's puzzles (React)](https://your-favorite-timer.netlify.app/)
+[App Timer to practice and solve rubik's puzzles (React)](https://your-favorite-timer.netlify.app/) :jigsaw:
 
-[App E-commerce full stack (Python Flask)](https://fdm-flask-b7v9.onrender.com/home)
+[App E-commerce full stack (Python Flask)](https://fdm-flask-b7v9.onrender.com/home) :shopping_cart:
+
+[App Tool ENG to IPA (React + Fast Api server)](https://eng-to-ipa.netlify.app/) :hammer_and_wrench:
 
 ### Skills
 
