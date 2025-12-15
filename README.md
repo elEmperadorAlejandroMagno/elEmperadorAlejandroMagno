@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack developer
 ------------------------------
 
-I've been learning programming since 2024. I started with HTML and CSS for curiosity but then i discovered the pleasure of the challenging programming developing. Working on proyect for CS50 course in Edx. But also learning more about python, quality code and algorithms in Coursera org. 
+Working in proyects full-stack either Javascript or Python languages.
 
 * 🌍  I'm based in Argentina
-* 🧠  I'm learning TypeScript
 
 ### Demo Apps
 
