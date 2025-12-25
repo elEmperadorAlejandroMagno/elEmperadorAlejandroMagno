@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack developer
 ------------------------------
 
-Working in proyects full-stack either Javascript or Python languages.
+Working in proyects full-stack Javascript and Python.
 
 * 🌍  I'm based in Argentina
 
@@ -17,6 +17,8 @@ Working in proyects full-stack either Javascript or Python languages.
 [App E-commerce full stack (Python Flask)](https://fdm-flask-b7v9.onrender.com/home) :shopping_cart:
 
 [App Tool ENG to IPA (React + Fast Api server)](https://eng-to-ipa.netlify.app/) :hammer_and_wrench:
+
+[Repo Social Network Cs50 Proyect upgraded (Django + JS)](https://github.com/elEmperadorAlejandroMagno/SocialNetwork-practice) 📱👥
 
 ### Skills
 
