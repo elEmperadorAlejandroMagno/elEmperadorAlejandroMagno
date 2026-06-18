@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack developer
 ------------------------------
 
-Full-stack Javascript and Python developer.
+Stadying Computer Science Degree in Facultad de Ciencias Exactas Física y Naturales, San Juan, Argentina.
 
 * 🌍  I'm based in Argentina
 
